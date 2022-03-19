@@ -9,5 +9,5 @@ A collection of solutions I made for some LeetCode problems.  Most are in Python
 | 19  |   Medium   | [Remove Nth Node From End Of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | [C](https://github.com/stpride/challenges/blob/main/leetcode/019/c/solution.c) |
 | 46  |   Medium   | [Permutations](https://leetcode.com/problems/permutations/) | [Python](https://github.com/stpride/challenges/blob/main/leetcode/046/pythonc/solution.py) |
 | 98  |   Medium   | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](https://github.com/stpride/challenges/blob/main/leetcode/098/pythonc/solution.py) |
-| 174 |    Hard    | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Python](https://github.com/stpride/challenges/blob/main/leetcode/174/pythonc/solution.py) |
+| 174 |    Hard    | [Dungeon Game](https://leetcode.com/problems/dungeon-game/) | [Python](https://github.com/stpride/challenges/blob/main/leetcode/174/python/solution.py) |
 
