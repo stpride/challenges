@@ -1,5 +1,7 @@
 # LeetCode Problems
 
+A collection of solutions I made for some LeetCode problems.  Most are in Python, but several are in other languages, like Java, C, and GoLang.  For some problems I created a solution in multiple languages.  I try to concentrate only on Medium and Hard problems.
+
 | No. | Difficulty | Name/Link | My Solution(s) |
 |:---:|:----------:| --------- | :-------------:|
 |  2  |   Medium   | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [C](https://github.com/stpride/challenges/blob/main/leetcode/002/c/solution.c) / [Python](https://github.com/stpride/challenges/blob/main/leetcode/002/python/solution.py) |
